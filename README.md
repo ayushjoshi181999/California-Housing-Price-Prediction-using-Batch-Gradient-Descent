@@ -75,17 +75,14 @@ This project requires the following Python libraries:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
-   cd <your-repo-name>
+   git clone https://github.com/ayushjoshi181999/California-Housing-Price-Prediction-using-Batch-Gradient-Descent.git
+   cd California-Housing-Price-Prediction-using-Batch-Gradient-Descent
    ```
 2. Install the required libraries:
    ```bash
    pip install -r requirements.txt
    ```
-3. Run the Python script:
-   ```bash
-   python main.py
-   ```
+3. Run the Python notebook.
 
 ---
 
@@ -102,10 +99,6 @@ The script performs the following steps:
 The script generates a plot showing:
 - Mean training loss across epochs.
 - Mean validation loss across epochs.
-
-Example:
-
-![Loss Plot](path/to/example_loss_plot.png)
 
 ---
 
